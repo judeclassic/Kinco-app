@@ -15,8 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![flutter_screenshot](https://github.com/judeclassic/images/images/Screenshot_1628776361.png?raw=true)
+![flutter_screenshot](https://github.com/judeclassic/Kinco-app/blob/design/screen_shots/Screenshot_1628776361.png?raw=true)
 
-![flutter_screenshot](https://github.com/judeclassic/images/images/Screenshot_1628978819.png.png?raw=true)
+![flutter_screenshot](https://github.com/judeclassic/Kinco-app/blob/design/screen_shots/Screenshot_1628978819.png?raw=true)
 
-![flutter_screenshot](https://github.com/judeclassic/images/images/Screenshot_1629069342.png?raw=true)
+![flutter_screenshot](https://github.com/judeclassic/Kinco-app/blob/design/screen_shots/Screenshot_1629069342.png?raw=true)
