@@ -2,6 +2,19 @@
 
 kinco the picture posting app
 
+
+## About
+
+App has four two major route
+* Login Page
+* Sign up Page
+* Camera Page
+
+You could check out Kinco server:
+It's built with *Nodejs*
+ - [**Kinco Server**](https://github.com/judeclassic/Kinco_server)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -22,9 +35,3 @@ samples, guidance on mobile development, and a full API reference.
 ![flutter_screenshot](https://github.com/judeclassic/Kinco-app/blob/design/screen_shots/Screenshot_1628978819.png?raw=true)
 
 ![flutter_screenshot](https://github.com/judeclassic/Kinco-app/blob/design/screen_shots/Screenshot_1629069342.png?raw=true)
-
-## About
-
-App has four two major route
-* Login Page
-* Sign up Page
